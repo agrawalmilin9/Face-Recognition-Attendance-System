@@ -1,4 +1,4 @@
-# 🎓 Face Recognition Attendance System (No dlib!)
+# 🎓 Face Recognition Attendance System
 
 Real-time webcam attendance using **DeepFace + OpenCV**.
 
@@ -9,8 +9,6 @@ Real-time webcam attendance using **DeepFace + OpenCV**.
 ```bash
 pip install opencv-python deepface tf-keras numpy Pillow
 ```
-
-That's it! No cmake, no Visual Studio, no dlib.
 
 ---
 
